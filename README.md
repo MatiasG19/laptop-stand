@@ -1,4 +1,9 @@
 # Laptop Stand
 
-![side.png](pictures/side.png)
-![top_down.png](pictures/top_down.png)
+- Width: 240mm
+- Bed-length: 200mm
+- Anlge: 15°
+
+![stand.png](pictures/stand.png)
+![leg.png](pictures/leg.png)
+![connector.png](pictures/connector.png)
